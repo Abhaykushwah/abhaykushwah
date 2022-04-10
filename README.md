@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Abhay Kushwah</h1>
 <h3 align="center">I'm a Cyber Security Enthusiastic.</h3>
-
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhaykushwah&label=Profile%20views&color=0e75b6&style=flat" alt="abhaykushwah" /> </p>
-
+-->
 - 🔭 I’m currently working on **Login System in Linux**
 
 - 🌱 I’m currently learning **Computer Networking**
