@@ -4,9 +4,9 @@
 - 🔭 I’m currently working on **Login System in Linux**
 
 - 🌱 I’m currently learning **Computer Networking**
-
+<!--
 - 👯 I’m looking to collaborate on **Open Source**
-
+-->
 - 💬 Ask me about **Cyber Help**
 
 - 📫 How to reach me **abhaykushwah999@gmail.com**
