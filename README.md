@@ -3,13 +3,13 @@
 <img align="center" alt="YouTube-Banner" src="https://github.com/Abhaykushwah/abhaykushwah/blob/main/src/youtube-banner.jpg">
 <hr>
 <img align="right" alt="Coding" width="400" src="https://github.com/Abhaykushwah/abhaykushwah/blob/main/src/coding.gif"> 
-- 🔭 I’m currently working on **-**  
 
-- 🌱 I’m currently learning **Active Directory**
+- 🔭 I’m currently working on ** - **  
+
+- 🌱 I’m currently learning **Coding, Security & Networking**
  
 - 👯 I’m looking to collaborate on **Cyber Security Projects**
 
-- 📫 How to reach me **abhaykushwah999@gmail.com**  
 <p align='center'>
 </p>
 <h3 align="left">🚀 Connect with me: <img src='src/handshake.gif' width="100px"> </h3>
