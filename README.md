@@ -1,6 +1,6 @@
 <h1 align="center">Hi, <img src = "src/wave.gif" width = 50px> I'm Abhay Kushwah</h1>
 <h3 align="center">Cyber Security Enthusiastic</h3>
-<img align="center" alt="YouTube-Banner" src="https://github.com/Abhaykushwah/abhaykushwah/blob/main/src/youtube-banner.jpg">
+<img align="center" alt="YouTube-Banner" src="https://github.com/Abhaykushwah/abhaykushwah/blob/main/src/youtube-banner2.jpg">
 <hr>
 <img align="right" alt="Coding" width="400" src="https://github.com/Abhaykushwah/abhaykushwah/blob/main/src/coding.gif"> 
 
