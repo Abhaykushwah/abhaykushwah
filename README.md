@@ -68,7 +68,8 @@ John Milton Public School, Agra
 
 ---
 
-## 🚀 Projects
+## 🚀 Projects  
+<img align="right" alt="Coding" width="400" src="https://github.com/Abhaykushwah/abhaykushwah/blob/main/src/projects.png">  
 
 ### **Video Streaming Service (Ongoing)**  
 🔗 [Project Link](https://github.com/deepak-gurjar07/video-streaming-aws)  
@@ -87,9 +88,10 @@ John Milton Public School, Agra
 
 ---
 
-## 📜 Certifications
+## 📜 Certifications  
+<img align="right" alt="Coding" width="220" src="https://github.com/Abhaykushwah/abhaykushwah/blob/main/src/certificate.png">
 
-- **Cybersecurity Operations Associate** – Cisco
+- **Cybersecurity Operations Associate** – Cisco  
 - **Fortinet Certified Associate Cybersecurity** – Fortinet
 - **Introduction to the Threat Landscape 1.0** – Fortinet
 - **Network Security Associate (NSE 1 & NSE 2)** – Fortinet
