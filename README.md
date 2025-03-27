@@ -1,10 +1,12 @@
 <h1 align="center">Hi, <img src = "src/wave.gif" width = 50px> I'm Abhay Kushwah</h1>
 <h3 align="center">Cyber Security Enthusiastic</h3>
-<img align="center" alt="YouTube-Banner" src="https://github.com/Abhaykushwah/abhaykushwah/blob/main/src/youtube-banner2.jpg">
+<img align="center" alt="YouTube-Banner" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah.github.io/refs/heads/main/src/youtube-banner.jpg">
 <hr>
-<img align="right" alt="Coding" width="400" src="https://github.com/Abhaykushwah/abhaykushwah/blob/main/src/coding.gif"> 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah.github.io/refs/heads/main/src/coding.gif"> 
 
-- 🔭 I’m currently working on ** - **  
+- 💼 Actively seeking for **Job**
+
+- 🔭 I’m currently working on **Myself** 
 
 - 🌱 I’m currently learning **Coding, Security & Networking**
  
@@ -12,11 +14,9 @@
 
 <p align='center'>
 </p>
-<h3 align="left">🚀 Connect with me: <img src='src/handshake.gif' width="100px"> </h3>
+<h3 align="left">🚀 Connect with me: <img src='https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah.github.io/refs/heads/main/src/handshake.gif' width="100px"> </h3>
 <p align="left">
-
-- [LinkedIn](https://www.linkedin.com/in/abhaykushwah/)
-- [YouTube](https://www.youtube.com/@abhaykushwah)
+ 
 </p>
 
 <!-- [![Portfolio](https://img.shields.io/badge/-Anishka%20Shukla-02032e?style=flat&logo=gnu-bash&logoColor=white)](https://abhaykushwah.com) -->
@@ -32,16 +32,16 @@
 <p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.python.org//" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a></p>
 -->
 
-##
-
-📍 Agra, India  
 📧 [abhay.kushwah_cs21@gla.ac.in](mailto:abhay.kushwah_cs21@gla.ac.in)  
+
 📞 +91 8965087077  
+
 🔗 [LinkedIn](https://www.linkedin.com/in/abhaykushwah/) | [GitHub](https://www.github.com/abhaykushwah/)  
 
 ---
 
 ## 🎓 Education
+<img align="right" alt="education_institute" width="450" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah.github.io/refs/heads/main/src/education_institute.png">   
 
 **Bachelor of Technology in Computer Science**  
 GLA University, Mathura *(7.11 CGPA)*  
@@ -53,9 +53,10 @@ John Milton Public School, Agra
 
 ---
 
-## 💼 Internship/Training Experience
+## 💼 Internship/Training Experience  
+<img align="right" alt="Experience" width="400" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah.github.io/refs/heads/main/src/experience.png">   
 
-### **AICTE Cyber Security Internship** *(Jan 2025 – Feb 2025)*  
+### **AICTE Cyber Security Internship** *(Jan 2025 – Feb 2025)*    
 - Security Systems, Threats & Vulnerabilities, Networking, CIA Triad
 - Cryptography – Methods and Implementation (OpenCV, OpenStego)
 - **[Project](https://github.com/Abhaykushwah/Secure-Data-Hiding-in-Image-Using-Steganography) :** Image Stego with Encrypted message in python
@@ -68,11 +69,11 @@ John Milton Public School, Agra
 
 ---
 
-## 🚀 Projects  
-<img align="right" alt="Coding" width="400" src="https://github.com/Abhaykushwah/abhaykushwah/blob/main/src/projects.png">  
+## 🚀 Projects
 
-### **Video Streaming Service (Ongoing)**  
-🔗 [Project Link](https://github.com/deepak-gurjar07/video-streaming-aws)  
+### **Video Streaming Service (Ongoing)**   
+🔗 [Project Link](https://github.com/deepak-gurjar07/video-streaming-aws)   
+<img align="right" alt="projects" height ="320" width="450" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah.github.io/refs/heads/main/src/projects.png">  
 **Technologies:** MERN Stack, AWS S3, AWS CloudFront  
 - Built a video streaming platform with user authentication.
 - Integrated AWS S3 for scalable & secure video storage.
@@ -88,10 +89,10 @@ John Milton Public School, Agra
 
 ---
 
-## 📜 Certifications  
-<img align="right" alt="Coding" width="220" src="https://github.com/Abhaykushwah/abhaykushwah/blob/main/src/certificate.png">
+## 📜 Certifications
+<img align="right" alt="certificate" width="250" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah.github.io/refs/heads/main/src/certificate.png">
 
-- **Cybersecurity Operations Associate** – Cisco  
+- **Cybersecurity Operations Associate** – Cisco
 - **Fortinet Certified Associate Cybersecurity** – Fortinet
 - **Introduction to the Threat Landscape 1.0** – Fortinet
 - **Network Security Associate (NSE 1 & NSE 2)** – Fortinet
@@ -110,6 +111,7 @@ John Milton Public School, Agra
 ---
 
 ## 🔧 Skills
+<img align="right" alt="skils" width="500" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah.github.io/refs/heads/main/src/skills.gif"> 
 
 ### **Technical:**
 - Python, Bash, SQL, VPNs, Nmap
@@ -127,6 +129,7 @@ John Milton Public School, Agra
 
 - **CTF Player** at picoCTF, TryHackMe
 - **CTF Write-ups** on YouTube
+- Attended **NPTEL Star** facitation progrom at **IIT Kanpur** on 2 march 2025
 - **Member of Cyberonites** *(Apr 2023 – Aug 2023)*
 - **AWS Events** – Participated in multiple workshops
 
