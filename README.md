@@ -25,7 +25,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/abhaykushwah)
 [![YouTube](https://img.shields.io/badge/-YouTube-FC2503?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@abhaykushwah)
 [![HTB](https://img.shields.io/badge/-HackTheBox-000000?style=flat&logo=codesandbox&logoColor=9FEF00)](https://app.hackthebox.com/profile/463566)
-[![THM](https://img.shields.io/badge/-TryHackMe-gray?style=flat&logo=icloud&logoColor=white)](https://tryhackme.com/p/Abhayh1)
+[![THM](https://img.shields.io/badge/-TryHackMe-gray?style=flat&logo=icloud&logoColor=white)](https://tryhackme.com/p/CybSecBuddy)
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
