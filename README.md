@@ -1,8 +1,8 @@
 <h1 align="center">Hi, <img src = "src/wave.gif" width = 50px> I'm Abhay Kushwah</h1>
 <h3 align="center">Cyber Security Enthusiastic</h3>
-<img align="center" alt="YouTube-Banner" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah.github.io/refs/heads/main/src/youtube-banner.jpg">
+<img align="center" alt="YouTube-Banner" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah/refs/heads/main/src/youtube-banner.jpg">
 <hr>
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah.github.io/refs/heads/main/src/coding.gif"> 
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah/refs/heads/main/src/coding.gif"> 
 
 - 💼 Actively seeking for **Job**
 
@@ -14,13 +14,13 @@
 
 <p align='center'>
 </p>
-<h3 align="left">🚀 Connect with me: <img src='https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah.github.io/refs/heads/main/src/handshake.gif' width="100px"> </h3>
+<h3 align="left">🚀 Connect with me: <img src='https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah/refs/heads/main/src/handshake.gif' width="100px"> </h3>
 <p align="left">
  
 </p>
 
 <!-- [![Portfolio](https://img.shields.io/badge/-Anishka%20Shukla-02032e?style=flat&logo=gnu-bash&logoColor=white)](https://abhaykushwah.com) -->
-<!-- [![AS Security](https://img.shields.io/badge/-AS%20Security-11c28a?style=flat&logo=powershell&logoColor=white)](https://abhaykushwah.github.io) -->
+<!-- [![AS Security](https://img.shields.io/badge/-AS%20Security-11c28a?style=flat&logo=powershell&logoColor=white)](https://Abhaykushwah) -->
 [![Github](https://img.shields.io/badge/-Github-000000?style=flat&logo=Github&logoColor=white)](https://github.com/abhaykushwah)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/abhaykushwah)
 [![YouTube](https://img.shields.io/badge/-YouTube-FC2503?style=flat&logo=YouTube&logoColor=white)](https://www.youtube.com/@abhaykushwah)
@@ -41,7 +41,7 @@
 ---
 
 ## 🎓 Education
-<img align="right" alt="education_institute" width="450" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah.github.io/refs/heads/main/src/education_institute.png">   
+<img align="right" alt="education_institute" width="450" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah/refs/heads/main/src/education_institute.png">   
 
 **Bachelor of Technology in Computer Science**  
 GLA University, Mathura *(7.11 CGPA)*  
@@ -54,7 +54,7 @@ John Milton Public School, Agra
 ---
 
 ## 💼 Internship/Training Experience  
-<img align="right" alt="Experience" width="400" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah.github.io/refs/heads/main/src/experience.png">   
+<img align="right" alt="Experience" width="400" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah/refs/heads/main/src/experience.png">   
 
 ### **AICTE Cyber Security Internship** *(Jan 2025 – Feb 2025)*    
 - Security Systems, Threats & Vulnerabilities, Networking, CIA Triad
@@ -73,7 +73,7 @@ John Milton Public School, Agra
 
 ### **Video Streaming Service (Ongoing)**   
 🔗 [Project Link](https://github.com/deepak-gurjar07/video-streaming-aws)   
-<img align="right" alt="projects" height ="320" width="450" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah.github.io/refs/heads/main/src/projects.png">  
+<img align="right" alt="projects" height ="320" width="450" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah/refs/heads/main/src/projects.png">  
 **Technologies:** MERN Stack, AWS S3, AWS CloudFront  
 - Built a video streaming platform with user authentication.
 - Integrated AWS S3 for scalable & secure video storage.
@@ -90,7 +90,7 @@ John Milton Public School, Agra
 ---
 
 ## 📜 Certifications
-<img align="right" alt="certificate" width="250" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah.github.io/refs/heads/main/src/certificate.png">
+<img align="right" alt="certificate" width="250" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah/refs/heads/main/src/certificate.png">
 
 - **Cybersecurity Operations Associate** – Cisco
 - **Fortinet Certified Associate Cybersecurity** – Fortinet
@@ -111,7 +111,7 @@ John Milton Public School, Agra
 ---
 
 ## 🔧 Skills
-<img align="right" alt="skils" width="500" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah.github.io/refs/heads/main/src/skills.gif"> 
+<img align="right" alt="skils" width="500" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah/refs/heads/main/src/skills.gif"> 
 
 ### **Technical:**
 - Python, Bash, SQL, VPNs, Nmap
