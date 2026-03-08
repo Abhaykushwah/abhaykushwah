@@ -28,18 +28,21 @@ Currently exploring defensive security, threat detection, and system security.
 # 👨‍💻 Cybersecurity Projects
 
 ### 🔎 Vulnerability Management Lab with Nessus
+- [Nessus Home lab](https://github.com/Abhaykushwah/Nessus_Home_Lab)  
 Conducted vulnerability assessments on a Windows host using Nessus.  
 Performed both credentialed and non-credentialed scans to identify system misconfigurations such as SMB signing issues and ICMP responses, followed by remediation and verification scans.
 
 ---
 
 ### 🕵️ Secure Data Hiding in Images (Steganography)
+- [Secure Data Hiding in Image Using Steganography GUI](https://github.com/Abhaykushwah/Secure-Data-Hiding-in-Image-Using-Steganography)  
 Developed a Python tool to hide encrypted messages inside images using steganography.  
 Implemented encryption and image processing techniques to securely embed and extract secret data.
 
 ---
 
-### 🏢 Windows Server Administration Lab
+### 🏢 Windows Server Administration Lab - Practice for AD Attacks
+-[Windows Server 2019](https://github.com/Abhaykushwah/Windows-Server-2019-Infrastructure-Project)  
 Built an enterprise-style Windows Server lab environment including:
 
 • Active Directory Domain Services  
@@ -116,3 +119,4 @@ Built a tool to scan and report network vulnerabilities on web dashboard.
 # 📫 Contact
 
 🔗 LinkedIn: https://linkedin.com/in/abhaykushwah  
+
