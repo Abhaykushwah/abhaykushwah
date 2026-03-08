@@ -42,7 +42,7 @@ Implemented encryption and image processing techniques to securely embed and ext
 ---
 
 ### 🏢 Windows Server Administration Lab - Practice for AD Attacks
--[Windows Server 2019](https://github.com/Abhaykushwah/Windows-Server-2019-Infrastructure-Project)  
+- [Windows Server 2019](https://github.com/Abhaykushwah/Windows-Server-2019-Infrastructure-Project)  
 Built an enterprise-style Windows Server lab environment including:
 
 • Active Directory Domain Services  
@@ -95,16 +95,9 @@ Built a tool to scan and report network vulnerabilities on web dashboard.
 # 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=abhaykushwah&show_icons=true&theme=tokyonight">
-</p>
-
-<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=abhaykushwah&theme=tokyonight">
 </p>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhaykushwah&layout=compact&theme=tokyonight">
-</p>
 
 ---
 
@@ -119,4 +112,5 @@ Built a tool to scan and report network vulnerabilities on web dashboard.
 # 📫 Contact
 
 🔗 LinkedIn: https://linkedin.com/in/abhaykushwah  
+
 
