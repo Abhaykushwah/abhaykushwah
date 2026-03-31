@@ -23,7 +23,7 @@ Currently exploring defensive security, threat detection, and system security.
 
 ---
 
-<img align="center" alt="YouTube-Banner" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah/refs/heads/main/src/youtube-banner.jpg">
+<img align="center" alt="github-Banner" src="https://raw.githubusercontent.com/Abhaykushwah/Abhaykushwah/refs/heads/main/src/github-banner.png">
 
 # 👨‍💻 Cybersecurity Projects
 
